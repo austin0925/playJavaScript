@@ -8,13 +8,8 @@
   },
   "author": "Anto Aravinth <anto.aravinth.cse@gmail.com>",
   "license": "ISC",
-<<<<<<< HEAD
   "devDependencies": {
     "babel-preset-es2015-node5": "^1.2.0",
-=======
-  "dependencies": {
-    "babel-preset-es2017-node7": "^0.5.2",
->>>>>>> chap02
     "babel-cli": "^6.23.0"
   }
 }
